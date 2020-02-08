@@ -1,4 +1,4 @@
-# Subdomains Search
+# Subdomains Util Search
 Requeriments: python3
 
 Instalation:
