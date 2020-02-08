@@ -4,6 +4,7 @@ Requeriments: python3
 Instalation:
 ```bash
 git clone https://github.com/BlaZzes10/python
+pip3 install -r requeriments.txt
 ```  
 
 Perm:
