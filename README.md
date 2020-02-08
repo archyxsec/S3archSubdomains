@@ -16,3 +16,6 @@ Usage:
 ```bash
 python3 S3archSubdomains.py <host>
 ```  
+Screenshot:
+![Example](https://github.com/BlaZzes10/python/assets/ImagenV1.png)
+
