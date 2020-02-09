@@ -1,5 +1,5 @@
 # Subdomains Util Search
-[![Build Status](https://travis-ci.org/ReFirmLabs/binwalk.svg?branch=master)]
+![Build Status](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 **Requeriments:** 
 python3
