@@ -1,4 +1,5 @@
 # Subdomains Util Search
+[![Version][version-badge]][version-link]
 **Requeriments:** 
 python3
 
