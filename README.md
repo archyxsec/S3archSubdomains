@@ -17,5 +17,5 @@ Usage:
 python3 S3archSubdomains.py <host>
 ```  
 Screenshot:
-![Example](https://github.com/BlaZzes10/python/assets/image.png)
+![Example](https://github.com/BlaZzes10/python/blob/master/assets/image.png)
 
