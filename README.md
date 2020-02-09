@@ -16,6 +16,11 @@ Usage:
 ```bash
 python3 S3archSubdomains.py <host>
 ```  
-Screenshot:
+###Screenshot:
+
+
+
+
+
 ![Example](https://github.com/BlaZzes10/python/blob/master/assets/image.png)
 
