@@ -16,7 +16,7 @@ Usage:
 ```bash
 python3 S3archSubdomains.py <host>
 ```  
-###Screenshot:
+**Screenshot**:
 
 
 
