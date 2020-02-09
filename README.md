@@ -1,18 +1,19 @@
 # Subdomains Util Search
-Requeriments: python3
+**Requeriments:** 
+python3
 
-Instalation:
+**Instalation:**
 ```bash
 git clone https://github.com/BlaZzes10/python
 pip3 install -r requeriments.txt
 ```  
 
-Perm:
+**Perm:**
 ```bash
 chmod +x S3archSubdomains.py
 ```  
 
-Usage:
+**Usage:**
 ```bash
 python3 S3archSubdomains.py <host>
 ```  
