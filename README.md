@@ -1,5 +1,5 @@
 # Subdomains Util Search
-![Build Status](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Build Status](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![Creator](https://img.shields.io/badge/creator-BerL1n-blue)
 
 **Requeriments:** 
 python3
