@@ -1,5 +1,6 @@
 # Subdomains Util Search
-[![Version][version-badge]][version-link]
+[![Build Status](https://travis-ci.org/ReFirmLabs/binwalk.svg?branch=master)]
+
 **Requeriments:** 
 python3
 
