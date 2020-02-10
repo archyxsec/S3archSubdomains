@@ -56,7 +56,7 @@ def AllUrl():
     for line in dat:
         if re.search(s, line):
             final = line.split(">")
-            url = final[1].split(">/)[0]
+            url = final[1].split(">/")[0]
             counter += 1
             if counter > 9 and not URLS.__contains__(url):
                 URLS.append(url)
