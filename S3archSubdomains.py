@@ -56,10 +56,11 @@ def AllUrl():
     for line in dat:
         if re.search(s, line):
             final = line.split(">")
+            url = final[1].split(">/)[0]
             counter += 1
             if counter > 9 and not URLS.__contains__(url):
                 URLS.append(url)
-                print(colored(final[1].split("</")[0], 'red', attrs=['bold']))
+                print(colored(url, 'red', attrs=['bold']))
 
 
 def main():
