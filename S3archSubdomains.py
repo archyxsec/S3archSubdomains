@@ -13,6 +13,11 @@ from termcolor import colored
 
 print(colored('Subdomains scan by Berl1n..', 'blue', attrs=['bold']))
 
+# ARGUMENT CHECK
+if len(sys.argv) != 2:
+    print(__doc__.format(__file__))
+    sys.exit(1)
+
 # PRINCIPAL REQUEST
 URL = "https://crt.sh/?CN=%25." + sys.argv[1]
 r = requests.get(url=URL)
@@ -66,12 +71,6 @@ def main():
         urlUtil()
     else:
         print(colored("N0t a VAlid 0ption", "red", attrs=['bold']))
-
-
-# ARGUMENT CHECK
-if len(sys.argv) != 2:
-    print(__doc__.format(__file__))
-    sys.exit(1)
 
 try:
     main()
